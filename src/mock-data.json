@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "fullName": "Emine Bardakcı",
+      "dislplayname": "Emine",
+      "phoneNumber": "5514474871",
+      "email": "eemine.bardakci@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Aynur Bardakcı",
+      "displayname": "Aynur",
+      "phoneNumber": "123456789",
+      "email": "aynur.bardakci01@gmail.com"
+    }
+  ]
